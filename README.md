@@ -1,9 +1,10 @@
+# Team ByteForge
 
-#Team ByteForge
 BSCS241A - Software Engineering
 
-##Members
-| Active Role | Name | Alternative Role |
+## Members
+
+| Active Role | Name | Alternative Role |   
 | :---: | :---: | :---:|
 | Project Lead | Cabrera, Edrei Ansel N. | Reasearch Lead |
 | Technical Lead | Madanglog, John Rev D. | QA and Data Lead |
