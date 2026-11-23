@@ -1,6 +1,6 @@
 # Team Charter: Team ByteForge
 
-> **NOTE: Charter is subject to change and is currently in the drafting stage.** Once our team has chosen a topic the charter will be updated accordingly.
+> **NOTE: Charter is subject to change/revision and is currently in the drafting stage.** Once our team has chosen a topic the charter will be updated accordingly.
 
 **Course:** CCSFEN1L Software Engineering · 2nd Term, A.Y. 2026-2027
 
@@ -8,7 +8,7 @@
 
 ## 1. Purpose
 
-(Project purpose)
+(Project purpose will be added once topic is chosen)
 
 ## 2. Roles
 
@@ -16,10 +16,10 @@ Everyone codes and everyone writes. The role names who is accountable for an are
 
 | Role | Member | Backup | Accountable for |
 | --- | --- | --- | --- |
-| Project lead (Scrum Master) | Ana Reyes | Ben Santos | Sprints, backlog, stand-ups, risk log, timeline, Gantt chart, submissions |
-| Technical lead (architect) | Ben Santos | Cris Dela Cruz | Architecture, repository standards, code review, methodology section |
-| Research lead | Cris Dela Cruz | Dana Mercado | Requirements, user stories, review of related literature, IEEE references |
-| QA and data lead | Dana Mercado | Ana Reyes | Testing, CI pipeline, data handling and consent forms, evaluation design |
+| Project lead (Scrum Master) | Cabrera, Edrei Ansel N. | Nepomuceno, Julliana P. | Sprints, backlog, stand-ups, risk log, timeline, Gantt chart, submissions |
+| Technical lead (architect) | Madanglog, John Rev D. | Nepomuceno, Julliana P. | Architecture, repository standards, code review, methodology section |
+| Research lead | Nepomuceno, Julliana P. | Cabrera, Edrei Ansel N. | Requirements, user stories, review of related literature, IEEE references |
+| QA and data lead | Madanglog, John Rev D. | Cabrera, Edrei Ansel N. | Testing, CI pipeline, data handling and consent forms, evaluation design |
 
 ## 3. Working norms and communication plan
 
@@ -27,7 +27,7 @@ Everyone codes and everyone writes. The role names who is accountable for an are
 
 | What | When | Where |
 | --- | --- | --- |
-| Team meeting | Tuesdays, 4:00 to 5:00 p.m. | Room 304 or Google Meet |
+| Team meeting | Tuesdays, 4:00 to 5:00 p.m. | Campus or Google Meet |
 | Sprint planning, review, and retrospective | Every other Tuesday, as part of the team meeting | Same |
 | Stand-up with the instructor | Weekly, 5 minutes, during the lab | Lab room |
 | Written check-in (done / next / blocked) | Monday, Wednesday, and Friday by 9:00 p.m. | `#standup` channel |
@@ -39,7 +39,7 @@ Everyone codes and everyone writes. The role names who is accountable for an are
 | Team chat (Discord) | Quick questions, check-ins, scheduling | Reply within 12 hours on weekdays, 24 hours on weekends |
 | GitHub Issues and Projects | Every task, bug, and user story | Assignee updates status at least twice a week |
 | Pull request reviews | Code and documentation review | First review within 24 hours |
-| Overleaf | Proposal chapters (LaTeX, IEEE template) | Each chapter has one owner; others comment instead of rewriting |
+| Overleaf / VS code | Proposal chapters (LaTeX, IEEE template) | Each chapter has one owner; others comment instead of rewriting |
 | Zotero group library | All references | Add a source the day you cite it |
 | Restricted Google Drive folder | Consent forms and raw field photos | Shared only with the team and the instructor |
 
