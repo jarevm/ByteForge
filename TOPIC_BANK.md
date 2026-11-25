@@ -8,8 +8,8 @@ We add one entry after every lab (Labs 01 to 10) using the template from the Lab
 
 | Idea | Paradigm | Lab | Interest | Feasibility | Status |
 | --- | --- | --- | --- | --- | --- |
-| Philippine Political Fake News Detector | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- |
+| Philippine Political Fake News Detector | Natural Language Processing (NLP), Machine Learning | --- | 3 | 4 | --- |
+| ML-Based Automated Building Structure Classification (Industrial/Commercial/Residential) | Classical Machine Learning, K-Nearest Neighbors (KNN) | --- | 3 | 1 | --- |
 | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- |
