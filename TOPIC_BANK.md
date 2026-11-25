@@ -19,7 +19,7 @@ We add one entry after every lab (Labs 01 to 10) using the template from the Lab
 | Topic | RRL1 | RRL2 | RRL3 | RRL4 | RRL5 |
 | --- | --- |  --- | --- | --- | --- |
 | Philippine Political Fake News Detector | --- |  --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- |
+| ML-Based Automated Building Structure Classification (Industrial/Commercial/Residential) | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- |
 ---
@@ -28,22 +28,22 @@ We add one entry after every lab (Labs 01 to 10) using the template from the Lab
 
 ### 1. Philippine Political Fake News Detector
 
-- **Idea:** 
-- **Problem it addresses:** 
-- **Closest existing work:** 
-- **Data needed:** 
-- **Compute needed:** 
-- **Biggest risk:** 
-- **Team interest:** -/5 · **Feasibility:** -/5
+- **Idea: A text classifier (and web or browser tool) that flags likely political disinformation or fabricated claims in Tagalog, Taglish, and Philippine English.** 
+- **Problem it addresses: High volume of misleading political posts and recycled narratives on social media outpaces manual fact-checking, especially around elections and major policy debates.** 
+- **Closest existing work: Cruz, Tan, and Cheng (2020) introduced the Fake News Filipino dataset and benchmarked transfer learning (such as ULMFiT and BERT) on Filipino news texts, building on earlier English fake-news benchmarks like LIAR (Wang, 2017) and Fake News Challenge datasets.** 
+- **Data needed: Labeled Philippine political articles and social posts (real vs. fabricated/misleading), drawing on public datasets like Fake News Filipino and verified fact-check archives (e.g., VERA Files, Rappler) with clear annotation guidelines.** 
+- **Compute needed: Colab GPU for fine-tuning a compact pretrained transformer or multilingual/Tagalog encoder; CPU or lightweight API hosting for inference.** 
+- **Biggest risk: Sarcasm, satire, code-switching (Taglish), and evolving political narratives/slang causing false positives or concept drift.** 
+- **Team interest:** 3/5 · **Feasibility:** 4/5
 
-### 2. Topic 2
-- **Idea:** 
-- **Problem it addresses:** 
-- **Closest existing work:** 
-- **Data needed:** 
-- **Compute needed:** 
-- **Biggest risk:** 
-- **Team interest:** -/5 · **Feasibility:** -/5
+### 2. ML-Based Automated Building Structure Classification (Industrial/Commercial/Residential)
+- **Idea: A vision model that classifies buildings into industrial, commercial, or residential categories from aerial/satellite imagery, street-level photos, or combined spatial inputs.** 
+- **Problem it addresses: Manual zoning verification, urban land-use mapping, and disaster/infrastructure exposure assessments are slow and costly to keep updated across growing municipalities.** 
+- **Closest existing work: Street-view and multimodal building-use classification work such as Hoffmann et al. (2018) using street-level façade imagery alongside footprint/remote-sensing data, as well as deep-learning building-usage classifiers on street and aerial imagery.** 
+- **Data needed: Georeferenced building images (overhead/satellite tiles and/or street-view photos) paired with verified land-use labels from municipal zoning maps, OpenStreetMap, QGIS, or field surveys.** 
+- **Compute needed: Colab GPU for training CNN or vision-backbone classifiers; standard workstation or cloud batch processing for tiling and inference. Mixed-use buildings (e.g., shophouses or ground-floor retail above residences) and occluded roofs/facades in dense neighborhoods causing class ambiguity.** 
+- **Biggest risk: Mixed-use buildings (e.g., shophouses or ground-floor retail above residences) and occluded roofs/facades in dense neighborhoods causing class ambiguity.** 
+- **Team interest:** 3/5 · **Feasibility:** 1/5
 
 ---
 
