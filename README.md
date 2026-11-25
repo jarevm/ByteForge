@@ -47,7 +47,7 @@ The proposal itself is written on Overleaf (IEEE template), and references are k
 ## Getting started
 
 ```bash
-git https://github.com/jarevm/ByteForge.git
+git clone https://github.com/jarevm/ByteForge.git
 cd ByteForge
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
